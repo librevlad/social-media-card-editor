@@ -1,6 +1,6 @@
 {
-  "name": "@librevlad/social-media-card-editor",
-  "version": "0.1.0",
+  "name": "social-media-card-editor",
+  "version": "0.1.1",
   "description": "Social Media Cards Editor",
   "private": true,
   "scripts": {
