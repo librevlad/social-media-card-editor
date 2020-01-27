@@ -12,7 +12,7 @@
   "bugs": "https://github.com/librevlad/social-media-card-editor/issues",
   "private": false,
   "files": [
-    "dist"
+    "src/components"
   ],
   "dependencies": {
     "core-js": "^3.4.4",
